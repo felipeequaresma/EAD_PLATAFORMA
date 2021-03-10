@@ -1,6 +1,6 @@
 
 # Projeto Plataforma EAD
-Esse projeto foi desenvolvido com a ideia de práticar as novas tecnologias e implementações que venho estudando! 
+Esse projeto foi desenvolvido com a ideia de práticar as novas tecnologias e implementações que venho estudando como Vue.js, Style components com Vue e Laravel. 
 
 
 ```
@@ -54,7 +54,7 @@ Front-end
  Como rodar o projeto
 ```
 
-> 1. git clone (https://github.com/felipeequaresma/myblog.git)
+> 1. git clone (https://github.com/felipeequaresma/eadplataform.git)
 > 2. npm install 
 > 3. npm update 
 > 4. npm run serve
