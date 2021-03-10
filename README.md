@@ -30,9 +30,11 @@ Front-end
 
 ```
  Interfaces
-```
-> ![Home v1](https://user-images.githubusercontent.com/25269099/110661343-3bed6c80-81a3-11eb-963f-6f8fc25f5dc2.png)
-> ![Login](https://user-images.githubusercontent.com/25269099/110662152-0006d700-81a4-11eb-98e8-799804799c64.png)
+``` 
+> ![Website -](https://user-images.githubusercontent.com/25269099/110667999-9689c700-81a9-11eb-9c6f-5d66471f423e.png)
+> ![Login](https://user-images.githubusercontent.com/25269099/110668006-98ec2100-81a9-11eb-8b89-adf84ed3f4a3.png)
+> ![Dashboard](https://user-images.githubusercontent.com/25269099/110668011-9a1d4e00-81a9-11eb-9d16-15efc7d5ed04.png)
+
 
 ```
  Tecnologias utilizadas
