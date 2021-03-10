@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com a ideia de práticar as novas tecnologias e im
 > - [ ] Criar o layout responsivo da Home
 > - [x] Criar o layout de Login
 > - [ ] Criar o layout responsivo de Login
-> - [ ] Criar o layout do Painel Administrativo
+> - [x] Criar o layout do Painel Administrativo
 > - [ ] Criar o layout responsivo do Painel Administrativo
 ```
 Front-end
